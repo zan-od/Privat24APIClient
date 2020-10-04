@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<request version="1.0">
+  <merchant>
+    <id>[id]</id>
+    <signature>[signature]</signature>
+  </merchant>
+  <data>
+  [data]
+  </data>
+ </request>

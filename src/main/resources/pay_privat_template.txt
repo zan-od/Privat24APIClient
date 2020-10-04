@@ -1,0 +1,9 @@
+    <oper>[oper]</oper>
+    <wait>[wait]</wait>
+    <test>[test]</test>
+    <payment id="[payment_id]">
+      <prop name="b_card_or_acc" value="[cardnumber]" />
+      <prop name="amt" value="[amount]" />
+      <prop name="ccy" value="[currency]" />
+      <prop name="details" value="[details]" />
+    </payment>

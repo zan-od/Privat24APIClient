@@ -1,0 +1,7 @@
+    <oper>[oper]</oper>
+    <wait>[wait]</wait>
+    <test>[test]</test>
+    <payment id="">
+      <prop name="cardnum" value="[cardnumber]" />
+      <prop name="country" value="[country]" />
+    </payment>

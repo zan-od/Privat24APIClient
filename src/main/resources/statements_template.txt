@@ -1,0 +1,8 @@
+    <oper>[oper]</oper>
+    <wait>[wait]</wait>
+    <test>[test]</test>
+    <payment id="">
+      <prop name="sd" value="[dateFrom]" />
+      <prop name="ed" value="[dateTo]" />
+      <prop name="cardnum" value="[cardnumber]" />
+    </payment>
